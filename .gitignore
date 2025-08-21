@@ -1,2 +1,4 @@
 .tox/*
 /context
+.ansible-navigator.yml
+ansible-navigator.log
